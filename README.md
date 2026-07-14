@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently building **full-stack, production-grade applications** with **Next.js**, **React**, **Node.js** & **TypeScript**
-- 🏗️ Most proud of **[LogiTrack v2](https://logitrackv2.vercel.app)** — a multi-tenant logistics & fleet management platform (321+ commits and counting)
+- 🏗️ Most proud of **[LogiTrack v2](https://logitrack.emreceyhan.xyz/en)** — a multi-tenant logistics & fleet management platform (321+ commits and counting)
 - 🌱 Exploring **Python** and **RAG / AI-powered** projects
 - 💡 I care about clean architecture, strict typing (zero `any`), performance (Lighthouse 95+) and real-world usability
 - 📫 Reach me at **wooods673@gmail.com**
@@ -52,14 +52,14 @@
 ## ⭐ Featured Project — LogiTrack v2
 
 <p align="center">
-  <a href="https://logitrackv2.vercel.app">
-    <img src="https://api.microlink.io/?url=https://logitrackv2.vercel.app&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark&waitUntil=networkidle2" width="720" alt="LogiTrack v2 live preview" />
+  <a href="https://logitrack.emreceyhan.xyz/en">
+    <img src="https://api.microlink.io/?url=https://logitrack.emreceyhan.xyz/en&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark&waitUntil=networkidle2" width="720" alt="LogiTrack v2 live preview" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://logitrackv2.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-logitrackv2.vercel.app-36BCF7?style=for-the-badge&labelColor=1c1c1c" alt="live demo" />
+  <a href="https://logitrack.emreceyhan.xyz/en">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-logitrack.emreceyhan.xyz-36BCF7?style=for-the-badge&labelColor=1c1c1c" alt="live demo" />
   </a>
   <a href="https://github.com/Emreceyhnn/logitrackv2">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="source" />
