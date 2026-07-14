@@ -21,7 +21,7 @@
 - 🏗️ Most proud of **[LogiTrack v2](https://logitrack.emreceyhan.xyz/en)** — a multi-tenant logistics & fleet management platform (321+ commits and counting)
 - 🌱 Exploring **Python** and **RAG / AI-powered** projects
 - 💡 I care about clean architecture, strict typing (zero `any`), performance (Lighthouse 95+) and real-world usability
-- 📫 Reach me at **wooods673@gmail.com**
+- 📫 Reach me at **emreceyhnn@gmail.com**
 
 ---
 
@@ -91,7 +91,7 @@
 | [**Admin Dashboard**](https://github.com/Emreceyhnn/admin-dashboard) | MERN business dashboard — orders, inventory, suppliers & customers with JWT auth | `React 19` `Node` `MongoDB` | [🔗](https://admin-dashboard-nu-neon-41.vercel.app) |
 | [**Cinemania**](https://github.com/Emreceyhnn/cinemania) | Movie discovery app on the TMDB API with search, genre filters & a personal library | `JS` `Vite` `TMDB API` | [🔗](https://emreceyhnn.github.io/cinemania/) |
 | [**Green Harvest**](https://github.com/Emreceyhnn/green-harvest) | Fast, responsive organic-produce landing page | `HTML` `CSS` `Vite` | [🔗](https://emreceyhnn.github.io/green-harvest/) |
-| [**Portfolio**](https://github.com/Emreceyhnn/portfolio) | My personal portfolio website | `TypeScript` | [🔗](https://portfolio-tau-wine-8yx14summk.vercel.app) |
+| [**Portfolio**](https://github.com/Emreceyhnn/portfolio) | My personal portfolio website | `TypeScript` | [🔗](https://emreceyhan.xyz) |
 
 > 📂 Explore all repositories → [**github.com/Emreceyhnn?tab=repositories**](https://github.com/Emreceyhnn?tab=repositories)
 
@@ -120,10 +120,10 @@
   <a href="https://github.com/Emreceyhnn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="mailto:wooods673@gmail.com">
+  <a href="mailto:emreceyhnn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://portfolio-tau-wine-8yx14summk.vercel.app">
+  <a href="https://emreceyhan.xyz">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
 </p>
