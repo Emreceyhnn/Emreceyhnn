@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,redis,firebase,materialui,redux,vite,git,figma&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,postgres,mongodb,prisma,redis,firebase,materialui,redux,vite&perline=7" alt="tech stack" />
 </p>
 
 <p align="center">
