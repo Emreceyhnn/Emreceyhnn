@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | JavaScript & TypeScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+web+apps+that+solve+real+problems;React+%7C+Node.js+%7C+TypeScript;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+web+apps+that+solve+real+problems;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,47 +17,83 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently building **full-stack applications** with **React**, **Node.js** & **TypeScript**
-- 🌱 I'm currently learning **Python** and exploring **RAG / AI-powered** projects
-- 💡 I love **turning ideas into products** — from UI design in Figma to shipping to production
-- ⚡ Fun fact: I ship projects regularly and enjoy solving real-world problems with clean code
+- 🔭 I'm currently building **full-stack, production-grade applications** with **Next.js**, **React**, **Node.js** & **TypeScript**
+- 🏗️ Most proud of **[LogiTrack v2](https://logitrackv2.vercel.app)** — a multi-tenant logistics & fleet management platform (321+ commits and counting)
+- 🌱 Exploring **Python** and **RAG / AI-powered** projects
+- 💡 I care about clean architecture, strict typing (zero `any`), performance (Lighthouse 95+) and real-world usability
+- 📫 Reach me at **wooods673@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,figma,vscode&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,redis,firebase,materialui,redux,vite,git,figma&perline=8" alt="tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Project — LogiTrack v2
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**taskpro**](https://github.com/Emreceyhnn/taskpro) · [backend](https://github.com/Emreceyhnn/taskpro-backend) | Full-stack task management app | `TypeScript` `Node.js` |
-| [**travelTrucks**](https://github.com/Emreceyhnn/travelTrucks) | Travel & camper rental booking platform | `TypeScript` `React` |
-| [**money-guard**](https://github.com/Emreceyhnn/money-guard) | Personal finance tracker | `TypeScript` `React` |
-| [**cinemania**](https://github.com/Emreceyhnn/cinemania) | Movie discovery app | `JavaScript` |
-| [**logitrackv2**](https://github.com/Emreceyhnn/logitrackv2) | Logistics tracking system | `TypeScript` |
-| [**admin-dashboard**](https://github.com/Emreceyhnn/admin-dashboard) | Admin panel UI | `JavaScript` |
-| [**portfolio**](https://github.com/Emreceyhnn/portfolio) | My personal portfolio site | `TypeScript` |
-| [**green-harvest**](https://github.com/Emreceyhnn/green-harvest) | Landing page project | `CSS` |
+<p align="center">
+  <a href="https://logitrackv2.vercel.app">
+    <img src="https://api.microlink.io/?url=https://logitrackv2.vercel.app&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark&waitUntil=networkidle2" width="720" alt="LogiTrack v2 live preview" />
+  </a>
+</p>
 
-> 📂 Explore all my repositories → [**github.com/Emreceyhnn?tab=repositories**](https://github.com/Emreceyhnn?tab=repositories)
+<p align="center">
+  <a href="https://logitrackv2.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-logitrackv2.vercel.app-36BCF7?style=for-the-badge&labelColor=1c1c1c" alt="live demo" />
+  </a>
+  <a href="https://github.com/Emreceyhnn/logitrackv2">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="source" />
+  </a>
+</p>
+
+> **A multi-tenant logistics & fleet management platform** covering the full operational lifecycle of a logistics company — shipments, route dispatch, live fleet tracking, warehouse operations, customers, and analytics — all behind secure, role-based access.
+
+**✨ Highlights**
+- 📦 **Shipment lifecycle** with a strict status state machine, priorities, multi-stop support & full audit history
+- 🗺️ **Route planning & dispatch** with driver/vehicle assignment, capacity guards and turn-by-turn routing (Valhalla)
+- 📍 **Live fleet tracking** on Leaflet maps powered by **Firebase Realtime Database**
+- 🏭 **Warehouse operations** — zones, pick/pack tasks, inventory & a dedicated worker UI
+- 🔐 **Multi-tenancy & RBAC** — company-scoped isolation, JWT auth with Redis session revocation, nonce-based CSP, audit logging
+- 🌍 **i18n** (English / Turkish) with locale-prefixed routes and **multi-currency** support via scheduled jobs
+
+**🧰 Tech:** `Next.js 16` · `React 19` · `TypeScript` · `PostgreSQL (Neon)` · `Prisma 7` · `Upstash Redis` · `Firebase` · `Supabase Storage` · `TanStack Query/Table` · `MUI 7` · `Leaflet` · `Playwright`
+
+---
+
+## 📌 More Projects
+
+| Project | Description | Stack | Live |
+| :--- | :--- | :--- | :--- |
+| [**TaskPro**](https://github.com/Emreceyhnn/taskpro) · [api](https://github.com/Emreceyhnn/taskpro-backend) | Full-stack Kanban task & project manager with drag-and-drop, JWT refresh auth (Lighthouse 99) | `React` `TS` `Node` `MongoDB` | [🔗](https://taskpro-omega.vercel.app/) |
+| [**TravelTrucks**](https://github.com/Emreceyhnn/travelTrucks) | Camper rental app with server-side filtering, galleries & Redux-persisted favorites | `React 19` `TS` `Redux` `MUI` | [🔗](https://travel-trucks-khaki-xi.vercel.app) |
+| [**Money Guard**](https://github.com/Emreceyhnn/money-guard) | Personal finance tracker with live currency rates & interactive charts via serverless proxy | `React` `Redux` `Chart.js` | [🔗](https://money-guard-theta.vercel.app) |
+| [**Nanny Service**](https://github.com/Emreceyhnn/nanny-service) | Babysitter marketplace with Firebase auth, filtering & scheduling (Page-State-Action pattern) | `React 19` `TS` `Firebase` | [🔗](https://nanny-service.emreceyhan.xyz/) |
+| [**Admin Dashboard**](https://github.com/Emreceyhnn/admin-dashboard) | MERN business dashboard — orders, inventory, suppliers & customers with JWT auth | `React 19` `Node` `MongoDB` | [🔗](https://admin-dashboard-nu-neon-41.vercel.app) |
+| [**Cinemania**](https://github.com/Emreceyhnn/cinemania) | Movie discovery app on the TMDB API with search, genre filters & a personal library | `JS` `Vite` `TMDB API` | [🔗](https://emreceyhnn.github.io/cinemania/) |
+| [**Green Harvest**](https://github.com/Emreceyhnn/green-harvest) | Fast, responsive organic-produce landing page | `HTML` `CSS` `Vite` | [🔗](https://emreceyhnn.github.io/green-harvest/) |
+| [**Portfolio**](https://github.com/Emreceyhnn/portfolio) | My personal portfolio website | `TypeScript` | [🔗](https://portfolio-tau-wine-8yx14summk.vercel.app) |
+
+> 📂 Explore all repositories → [**github.com/Emreceyhnn?tab=repositories**](https://github.com/Emreceyhnn?tab=repositories)
 
 ---
 
@@ -87,7 +123,7 @@
   <a href="mailto:wooods673@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://github.com/Emreceyhnn/portfolio">
+  <a href="https://portfolio-tau-wine-8yx14summk.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
 </p>
