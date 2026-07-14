@@ -99,18 +99,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emreceyhnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceyhnn&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&langs_count=8" alt="top langs" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emreceyhnn&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emreceyhnn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-</p>
+
 
 ---
 
